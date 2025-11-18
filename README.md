@@ -16,5 +16,5 @@ The main goal of this repository is to demonstrate a solid understanding of the 
 - Exploratory Data Analysis (EDA)
 - Data Cleaning
 - Data Transformation
-- Visualization & Insight Extractio
+- Visualization 
   
