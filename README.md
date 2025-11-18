@@ -2,7 +2,7 @@
 \
 \
 This repository contains a collection of data analysis projects built using Python, showcasing datasets and applying key concepts from data analytics, data wrangling, and data visualization.
-The main goal of this repository is to demonstrate a solid understanding of the analysis process, from data loading and cleaning to extracting insights and building visualizations.
+The main goal of this repository is to demonstrate a solid understanding of the analysis process as a Data Engineer, from data loading and cleaning to extracting insights and building visualizations.
 
 🛠️ Technologies & Libraries Used 
 
