@@ -1,0 +1,13 @@
+Product_Category,Sales_Amount,Region,client_number,date
+Beauty,14000,Nord,100,15-01-23
+Books,16000,Sud,140,10-02-23
+Coffee,20000,Est,260,05-03-23
+Coffee,20000,Nord,312,01-04-23
+Books,9000,Sud,904,12-05-23
+Coffee,21000,Est,300,17-06-23
+Books,15000,Vest,200,21-07-23
+Books,16000,Nord,190,09-08-23
+Coffee,18000,Sud,140,15-09-23
+Coffee,14000,Est,200,01-10-23
+Beauty,13000,Vest,500,05-11-23
+Beauty,24000,Nord,340,22-12-23
