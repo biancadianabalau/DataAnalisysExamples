@@ -1,4 +1,4 @@
-📊 Data Analysis Portfolio    Python Projects \
+📊 Data Analysis Portfolio  -  Python Projects \
 \
 \
 This repository contains a collection of data analysis projects built using Python, showcasing datasets and applying key concepts from data analytics, data wrangling, and data visualization.
