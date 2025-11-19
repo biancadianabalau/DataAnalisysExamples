@@ -18,7 +18,7 @@ The main goal of this repository is to demonstrate a solid understanding of the 
 - Data Transformation
 - Visualization 
   
-    Example 1
+ Example 1
       Contain files:
         OnlineSalesData.csv
         onlinesalesdata.py
