@@ -21,9 +21,9 @@ The main goal of this repository is to demonstrate a solid understanding of the 
 
 Example 1
   Contain files:
-  - OnlineSalesData.csv
-  - onlinesalesdata.py
-  - filtered_sales.csv
+    - OnlineSalesData.csv
+    - onlinesalesdata.py
+    - filtered_sales.csv
  
 
 Example 2
