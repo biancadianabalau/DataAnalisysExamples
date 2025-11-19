@@ -18,11 +18,11 @@ The main goal of this repository is to demonstrate a solid understanding of the 
 - Data Transformation
 - Visualization 
   
-Example 1
-  Contain files:
-    OnlineSalesData.csv
-    onlinesalesdata.py
-    filtered_sales.csv
+    Example 1
+      Contain files:
+        OnlineSalesData.csv
+        onlinesalesdata.py
+        filtered_sales.csv
   
 Example 2
   Contain files:
