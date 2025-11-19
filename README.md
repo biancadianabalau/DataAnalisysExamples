@@ -43,11 +43,13 @@ Example 3
 
 Example 4: Part 1 & Part 2
 
+\
 Part 1: Data Preprocessing & Cleaning
   Contain files: 
     - financial_data.xlsx
     - clean_financial_data.py
     - cleaned_financial_data.xlsx
+\
 Part 2: Profit Prediction
   Contain files:
     - cleaned_financial_data.xlsx
