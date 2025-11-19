@@ -17,7 +17,6 @@ The main goal of this repository is to demonstrate a solid understanding of the 
 - Data Cleaning
 - Data Transformation
 - Visualization
-
 \
 
 Example 1
@@ -25,14 +24,12 @@ Example 1
   - OnlineSalesData.csv
   - onlinesalesdata.py
   - filtered_sales.csv
-
  \ 
 
 Example 2
   Contain files:
     - product_sales.py
     - product_sales.csv
-    
 \
 
 Example 3
@@ -42,14 +39,15 @@ Example 3
 \  
 
 Example 4: Part 1 & Part 2
-
 \
+
 Part 1: Data Preprocessing & Cleaning
   Contain files: 
     - financial_data.xlsx
     - clean_financial_data.py
     - cleaned_financial_data.xlsx
 \
+
 Part 2: Profit Prediction
   Contain files:
     - cleaned_financial_data.xlsx
@@ -59,7 +57,9 @@ Part 2: Profit Prediction
 
 Example 5
 in progress
+\
 Example 6
 in progress
+\
 Example 7
 in progress
