@@ -60,8 +60,10 @@ Part 2: Profit Prediction
 Example 5
 in progress
 \
+
 Example 6
 in progress
 \
+
 Example 7
 in progress
